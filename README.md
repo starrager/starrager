@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Header](https://github.com/starrager/starrager/blob/main/assets/log.png)]
 <!--
 **starrager/starrager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
