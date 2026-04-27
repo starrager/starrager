@@ -1,13 +1,12 @@
 <img src="https://i.pinimg.com/1200x/9b/d0/c8/9bd0c88bd123def80f0c88a05b4645e0.jpg" width="180" align="right">
 
-# 👋 Привет, я starrager
+# starrager
 
-**Fullstack разработчик** на Vue + Node.js.  
-Создаю веб-приложения и изучаю новые технологии.
+Fullstack developer on Vue + Node.js.
 
 ---
 
-## 🛠️ Технологии
+## Technologies
 
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-F7DF1E?style=for-the-badge&logo=pinia&logoColor=black)
@@ -23,7 +22,7 @@
 
 ---
 
-## 📬 Связаться со мной
+## Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/starragerofshit)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starrager)
