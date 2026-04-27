@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://i.pinimg.com/1200x/9b/d0/c8/9bd0c88bd123def80f0c88a05b4645e0.jpg" width="200">
+</p>
+
 ## Technologies
 
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -16,4 +20,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/starragerofshit)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starrager)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](smauulik17@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style-for-the-badge&logo=gmail&logoColor=white)](mailto:smauulik17@gmail.com)
