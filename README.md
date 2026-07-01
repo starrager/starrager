@@ -40,7 +40,6 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
 ![Surge](https://img.shields.io/badge/Surge.sh-FFB800?style=for-the-badge\&logo=surge\&logoColor=black)
 
----
 
 ## Contact
 
@@ -53,7 +52,6 @@
 <br/>
 <br/>
 
----
 
 <p align="center">
   <img
