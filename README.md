@@ -42,24 +42,6 @@
 
 ---
 
-## What I Do
-
-* Build SPA applications
-* Create REST APIs
-* Design databases
-* Implement authentication
-* Deploy and maintain projects
-
----
-
-## Currently Learning
-
-* PostgreSQL
-* Docker
-* WebSocket
-
----
-
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/starragerofshit)
@@ -68,8 +50,14 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:smauulik17@gmail.com)
 
----
-
+<br/>
 <br/>
 
-<p align="center"> <img src="./assets/d7eb5851ef90f8e57b26fd352fd69211.gif" width="100%"> </p>
+---
+
+<p align="center">
+  <img
+    src="./assets/d7eb5851ef90f8e57b26fd352fd69211.gif"
+    width="100%"
+  />
+</p>
