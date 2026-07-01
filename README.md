@@ -1,32 +1,22 @@
 <img src="https://i.pinimg.com/1200x/9b/d0/c8/9bd0c88bd123def80f0c88a05b4645e0.jpg" width="180" align="right"/>
 
-# 👋 Hi, I'm starrager
+# starrager
 
-### Fullstack Developer • Vue 3 • Node.js
+### Fullstack Developer
 
-Создаю современные веб-приложения: от интерфейса до API и деплоя.
-
-Люблю понятную архитектуру, чистый код и проекты, которые удобно использовать.
+Создаю веб-приложения: интерфейс, API, база данных и деплой.
 
 <br/>
 
 ---
 
-## 🚀 About Me
-
-* ⚡ Разрабатываю Fullstack приложения
-* 🎯 Основной стек: **Vue 3 + Node.js**
-* 🧩 Работаю с REST API и авторизацией
-* 🗄️ Проектирую и подключаю базы данных
-* ☁️ Деплою и поддерживаю проекты
-
----
-
-## 🛠️ Tech Stack
+## Stack
 
 ### Frontend
 
 ![Vue](https://img.shields.io/badge/Vue_3-42b883?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-F7DF1E?style=for-the-badge\&logo=pinia\&logoColor=black)
 ![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
@@ -38,65 +28,39 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-FF6600?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge)
 
-### Tools & Deploy
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
 ![Surge](https://img.shields.io/badge/Surge.sh-FFB800?style=for-the-badge\&logo=surge\&logoColor=black)
 
 ---
 
-## 📌 Featured Project
+## What I Do
 
-### 📋 Task Manager — Trello Clone
-
-Полноценное приложение для управления досками и задачами.
-
-### Возможности:
-
-* JWT авторизация
-* Работа с досками
-* Управление задачами
-* REST API
-* Адаптивный интерфейс
-
-**Stack:** Vue 3 • Pinia • Node.js • Express • SQLite
-
-🌐 Demo
-https://trello-fullstack.surge.sh
-
-📁 Repository
-https://github.com/starrager/trello-fullstack
+* Build SPA applications
+* Create REST APIs
+* Design databases
+* Implement authentication
+* Deploy and maintain projects
 
 ---
 
-## 📈 What I Work With
-
-```text id="lxtm88"
-Frontend  → Vue 3 • Router • Pinia • Bootstrap
-Backend   → Node.js • Express • REST API
-Database  → SQLite
-Deploy    → Render • Surge
-Tools     → Git • GitHub
-```
-
----
-
-## 📚 Currently Learning
+## Currently Learning
 
 * PostgreSQL
 * Docker
 * WebSocket
-* Advanced Vue 3
-* Backend architecture
 
 ---
 
-## 🤝 Contact
+## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/starragerofshit)
 
@@ -106,4 +70,13 @@ Tools     → Git • GitHub
 
 ---
 
-> Building things, learning every day and improving one project at a time.
+> Keep building.
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://i.pinimg.com/originals/9b/d0/c8/9bd0c88bd123def80f0c88a05b4645e0.gif"
+    width="100%"
+  />
+</p>
