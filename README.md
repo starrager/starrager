@@ -70,8 +70,6 @@
 
 ---
 
-> Keep building.
-
 <br/>
 
 <p align="center">
