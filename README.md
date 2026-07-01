@@ -72,9 +72,4 @@
 
 <br/>
 
-<p align="center">
-  <img
-    src="https://i.pinimg.com/originals/9b/d0/c8/9bd0c88bd123def80f0c88a05b4645e0.gif"
-    width="100%"
-  />
-</p>
+<p align="center"> <img src="./assets/d7eb5851ef90f8e57b26fd352fd69211.gif" width="100%"> </p>
