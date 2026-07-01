@@ -1,5 +1,5 @@
 <img src="https://i.pinimg.com/1200x/9b/d0/c8/9bd0c88bd123def80f0c88a05b4645e0.jpg" width="180" align="right"/>
-<img src="https://ru.pinterest.com/pin/7318418139720067/" width="180"/>
+
 # starrager
 
 ### Fullstack Developer
