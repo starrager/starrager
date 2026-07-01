@@ -1,3 +1,9 @@
+<img src="https://i.pinimg.com/1200x/9b/d0/c8/9bd0c88bd123def80f0c88a05b4645e0.jpg" width="180" align="right"/>
+
+# starrager
+
+### Fullstack Developer
+
 ## Stack
 
 ### Frontend
@@ -33,3 +39,18 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+## Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/starragerofshit)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starrager)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smauulik17@gmail.com)
+
+<p align="center">
+  <img
+    src="./assets/d7eb5851ef90f8e57b26fd352fd69211.gif"
+    width="100%"
+  />
+</p>
