@@ -6,10 +6,6 @@
 
 Создаю веб-приложения: интерфейс, API, база данных и деплой.
 
-<br/>
-
----
-
 ## Stack
 
 ### Frontend
@@ -48,10 +44,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/starrager)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:smauulik17@gmail.com)
-
-<br/>
-<br/>
-
 
 <p align="center">
   <img
