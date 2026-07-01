@@ -1,17 +1,8 @@
-<table>
-  <tr>
-    <td width="200">
-      <img src="https://i.pinimg.com/1200x/9b/d0/c8/9bd0c88bd123def80f0c88a05b4645e0.jpg" width="180" />
-    </td>
-    <td>
-      <h1>starrager</h1>
-      <h3>Fullstack Developer</h3>
-    </td>
-  </tr>
-</table>
+<img src="https://i.pinimg.com/1200x/9b/d0/c8/9bd0c88bd123def80f0c88a05b4645e0.jpg" width="180" align="right"/>
 
+# starrager
 
-## Stack
+### Fullstack Developer
 
 <br/>
 <br/>
