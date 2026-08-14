@@ -2,55 +2,96 @@
 
 # starrager
 
-### Fullstack Developer · Vue · Node.js
+### Fullstack Developer · Vue · Node.js · TypeScript
+
+Building fullstack applications from **interface to backend, database, integrations and deployment.**
+
+<br clear="right"/>
 
 ---
 
-## 🧠 About Me
+## ⚡ Tech Stack
 
-I'm a **fullstack developer** who doesn't follow the crowd.  
-I build projects that have character — not just code, but experiences.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,pinia,bootstrap" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode,docker" />
+</p>
 
-> I believe great development starts with a good idea and a fearless mindset.
+### Frontend
 
----
+`Vue 3` · `Composition API` · `Pinia` · `Vue Router`  
+`Vite` · `Axios` · `Bootstrap 5` · `TypeScript`
 
-## 💻 Tech Stack
+### Backend
 
-| Area | Technologies |
-|------|--------------|
-| **Frontend** | Vue 3, Pinia, Vue Router, Vite, Axios, Bootstrap, TypeScript |
-| **Backend**  | Node.js, Express, Prisma, SQLite, JWT, bcrypt, Zod, Winston |
-| **DevOps**   | Git, GitHub, Render, Surge, Docker, Postman, VS Code |
+`Node.js` · `Express` · `TypeScript` · `Prisma`  
+`SQLite` · `JWT` · `bcrypt` · `Zod` · `Winston`
+
+### Integrations
+
+`Telegram Bot` · `Nodemailer` · `Resend` · `REST API`
+
+### Tools & Deployment
+
+`Git` · `GitHub` · `npm` · `Postman` · `VS Code`  
+`Render` · `Surge` · `Docker`
 
 ---
 
 ## 🚀 Projects
 
-### 📚 BookStore — Online Bookstore
+### 📚 BookStore
 
-> Fullstack e-commerce app with auth, cart, orders, reviews, and admin panel.
+**Fullstack online bookstore** with authentication, catalog, shopping cart, orders, reviews, favorites and an admin dashboard.
 
-- **Stack:** Vue 3 + Node.js + Express + Prisma + SQLite
-- [Live Demo](https://starrager-books.surge.sh) · [Repository](https://github.com/starrager/bookstore-fullstack)
+**Stack**
 
-**Features:**
-- JWT authentication
-- Catalog with search & filters
-- Shopping cart & orders
-- Reviews & ratings
-- Admin dashboard with stats
+`Vue 3` `Pinia` `Node.js` `Express` `Prisma` `SQLite`
+
+**Features**
+
+- 🔐 JWT authentication & role-based access
+- 📚 Catalog with search, filters, sorting & pagination
+- 🛒 Shopping cart & checkout
+- 📦 Order management & status tracking
+- ⭐ Reviews & ratings
+- ❤️ Favorites
+- 📊 Admin dashboard & sales statistics
+- 📧 Email notifications
+- 🤖 Telegram bot integration
+- 📝 Application logging
+
+**Links**
+
+[🌐 Live Demo](https://starrager-books.surge.sh) · [💻 Repository](https://github.com/starrager/bookstore-fullstack)
 
 ---
 
-## 📫 Contact
+## 🧩 Development
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/starragerofshit)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starrager)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smauulik17@gmail.com)
+```text
+Frontend
+Vue 3 → Pinia → Router → Axios → Vite
 
----
+Backend
+Node.js → Express → REST API → Prisma
 
-<p align="center">
-  <img src="./assets/d7eb5851ef90f8e57b26fd352fd69211.gif" width="100%" />
-</p>
+Database
+SQLite
+
+Security
+JWT → bcrypt → Zod
+
+Integrations
+Telegram → Email → External APIs
+
+Deployment
+Render → Surge → Docker
+
+
+📫 Contact
+<p align="center"> <a href="https://t.me/starragerofshit"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="https://github.com/starrager"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:smauulik17@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> <img src="./assets/d7eb5851ef90f8e57b26fd352fd69211.gif" width="100%" /> </p>
