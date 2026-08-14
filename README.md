@@ -41,35 +41,6 @@ Building fullstack applications from **interface to backend, database, integrati
 
 ---
 
-## 🚀 Projects
-
-### 📚 BookStore
-
-**Fullstack online bookstore** with authentication, catalog, shopping cart, orders, reviews, favorites and an admin dashboard.
-
-**Stack**
-
-`Vue 3` `Pinia` `Node.js` `Express` `Prisma` `SQLite`
-
-**Features**
-
-- 🔐 JWT authentication & role-based access
-- 📚 Catalog with search, filters, sorting & pagination
-- 🛒 Shopping cart & checkout
-- 📦 Order management & status tracking
-- ⭐ Reviews & ratings
-- ❤️ Favorites
-- 📊 Admin dashboard & sales statistics
-- 📧 Email notifications
-- 🤖 Telegram bot integration
-- 📝 Application logging
-
-**Links**
-
-[🌐 Live Demo](https://starrager-books.surge.sh) · [💻 Repository](https://github.com/starrager/bookstore-fullstack)
-
----
-
 ## 🧩 Development
 
 ```text
