@@ -12,7 +12,7 @@ Building web applications from **UI to API, database and deployment.**
 
 <br>
 
-## Stack
+## ⚡ Stack
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Building web applications from **UI to API, database and deployment.**
 
 <br>
 
-## Development
+## 🧩 What I build
 
 ```text
 Frontend       Vue 3 · Composition API · Pinia · Router
@@ -43,22 +43,18 @@ Deployment     Render · Surge · Docker
 
 <br>
 
-## Contact
+## 📫 Contact
 
 <div align="center">
 
 <a href="https://github.com/starrager">
   <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-
-   
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/starragerofshit">
   <img src="https://skillicons.dev/icons?i=telegram" width="45"/>
 </a>
-
-   
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:vodichka2006@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
