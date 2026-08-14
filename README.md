@@ -8,15 +8,6 @@
 
 Building web applications from **UI to API, database and deployment.**
 
-<br/>
-
-<a href="https://github.com/starrager">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://t.me/starragerofshit">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -44,13 +35,24 @@ Integrations   Telegram · Email · External APIs
 Deployment     Render · Surge · Docker
 ```
 
+---
+
+## 📫 Contact
+
 <p align="center">
+
   <a href="https://github.com/starrager">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://t.me/starragerofshit">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+
+  <a href="mailto:vodichka2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 </p>
 
 <br/>
