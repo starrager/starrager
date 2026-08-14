@@ -10,21 +10,27 @@ Building web applications from **UI to API, database and deployment.**
 
 </div>
 
----
+<br>
 
-## ⚡ Stack
+## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,pinia,bootstrap,axios" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=vue,ts,js,vite,pinia,bootstrap,axios" />
 
-## 🧩 What I build
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+
+</div>
+
+<br>
+
+## Development
 
 ```text
 Frontend       Vue 3 · Composition API · Pinia · Router
@@ -35,27 +41,31 @@ Integrations   Telegram · Email · External APIs
 Deployment     Render · Surge · Docker
 ```
 
----
+<br>
 
-## 📫 Contact
+## Contact
 
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/starrager">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/starrager">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
 
-  <a href="https://t.me/starragerofshit">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+   
 
-  <a href="mailto:vodichka2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://t.me/starragerofshit">
+  <img src="https://skillicons.dev/icons?i=telegram" width="45"/>
+</a>
 
-</p>
+   
 
-<br/>
+<a href="mailto:vodichka2006@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+</div>
+
+<br><br>
 
 <p align="center">
   <img src="./assets/d7eb5851ef90f8e57b26fd352fd69211.gif" width="100%" />
