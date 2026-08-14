@@ -44,21 +44,6 @@ Integrations   Telegram · Email · External APIs
 Deployment     Render · Surge · Docker
 ```
 
-I focus on building **complete fullstack applications** rather than isolated frontend or backend pieces — from interface and business logic to authentication, database, integrations and deployment.
-
----
-
-## 🚀 Currently
-
-* Building fullstack applications with Vue & Node.js
-* Improving backend architecture and TypeScript
-* Learning more about Docker and production deployments
-* Working with REST APIs, authentication and integrations
-
----
-
-## 📫 Contact
-
 <p align="center">
   <a href="https://github.com/starrager">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
