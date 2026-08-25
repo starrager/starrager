@@ -13,9 +13,9 @@ Building web applications from **UI to API, database and deployment.**
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,pinia,bootstrap,axios" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,vite,pinia" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite,postgres" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
@@ -23,13 +23,18 @@ Building web applications from **UI to API, database and deployment.**
 ## What I build
 
 ```text
-Frontend       Vue 3 · Composition API · Pinia · Router
-Backend        Node.js · Express · TypeScript · REST API
-Database       Prisma · SQLite
-Security       JWT · bcrypt · Zod
+Frontend       Vue 3 · Composition API · Pinia · Vue Router · Axios
+Backend        Node.js · Express · TypeScript · REST API · JWT · bcrypt
+Database       Prisma · SQLite · PostgreSQL
+Validation     Zod
+Testing        Vitest · Supertest
+Logging        Winston
+Documentation  Swagger (OpenAPI)
 Integrations   Telegram · Email · External APIs
 Deployment     Render · Surge · Docker
+Security       Helmet · CORS · Rate Limiting
 ```
+
 ## Contact
 
 <p align="center">
